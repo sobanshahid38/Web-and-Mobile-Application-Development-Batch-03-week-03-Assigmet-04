@@ -1,0 +1,35 @@
+
+#heading{  
+    color: blue;
+}
+
+.a1{
+    background-color: rgb(141, 247, 141);
+    color: white;
+}
+b{
+    color: black;
+}
+ul{
+    color: rgb(253, 73, 42);
+}
+
+#ul3{
+    color: turquoise;
+}
+
+ol{
+    color: rgb(253, 73, 42);
+}
+#ol5{
+    color: darkorange;
+}
+
+#footer{
+     text-align: center;
+}
+#color{
+    font-size: large;
+    color: deeppink;
+}
+
